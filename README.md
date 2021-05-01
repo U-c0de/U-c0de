@@ -18,7 +18,7 @@
 <h3 align="left"><a href="https://linkedin.com/in/utkarsharma22" target="blank"><img align="center" src="https://camo.githubusercontent.com/9354d286708efe5450394771240324309cd530a93524c988d92296fa01b4bd7e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e6b6564696e2e706e67" alt="" height="40" width="40" /></a> &emsp;<a href="utkarshus2000@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/3519e704bfa3608c44bb981d63331e5163bd0a3bf0ab5fbfbda3a51ada1586a2/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f676d61696c2e706e67" alt="" height="40" width="40" /></a></h3></br>
 
 <div class="footer">
-  <p align="right">FOLLOW ME</p>
+  <p align="right">(DO FOLLOW) </p>
 </div>
 
 
