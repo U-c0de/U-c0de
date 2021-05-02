@@ -1,5 +1,6 @@
 <h1 align="left"> 👋🏻 </h1>
-<h1 align="center"> UTKARSH SHARMA 🧐 </h1>
+<h1 align="center"> UTKARSH SHARMA 🧐 </h1> <p align="left"> 
+<h1 > <a align="left"> 👋🏻 </a> &ensp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a align="right"> UTKARSH SHARMA 🧐</a> </h1>
 
 <div><img align="right"src="https://previews.123rf.com/images/jossdiim/jossdiim1801/jossdiim180100028/93767092-programming-and-coding-illustration-.jpg" width="360" height="270"/><p align="left"> <img src="https://komarev.com/ghpvc/?username=xyz&label=Profile%20views&color=0e75b6&style=flat" alt="xyz" /> </p><br>
 <h3 align="left">&ensp; 🎓&nbsp;	BTECH (Computer Science & Engineering) </h3>
