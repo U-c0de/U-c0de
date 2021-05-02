@@ -1,10 +1,9 @@
 
-<h1 > <a align="left"> 👋🏻 </a> &ensp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a align="right"> UTKARSH SHARMA 🧐</a> </h1>
+<h1 > <a align="left"> 👋🏻 </a> &ensp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a align="right"> UTKARSH SHARMA 🧐</a>&ensp;&ensp;&emsp; &emsp;&emsp;&emsp; <a> <img src="https://komarev.com/ghpvc/?username=xyz&label=Profile%20views&color=0e75b6&style=flat" alt="xyz" /> </a> </h1><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xyz&label=Profile%20views&color=0e75b6&style=flat" alt="xyz" /> </p><br>
-<div><img align="right"src="https://previews.123rf.com/images/jossdiim/jossdiim1801/jossdiim180100028/93767092-programming-and-coding-illustration-.jpg" width="360" height="270"/><h3 align="left">&ensp; 🎓&nbsp;	BTECH (Computer Science & Engineering) </h3>
+<div><img align="right"src="https://previews.123rf.com/images/jossdiim/jossdiim1801/jossdiim180100028/93767092-programming-and-coding-illustration-.jpg" width="300" height="200"/><h3 align="left">&ensp; 🎓&nbsp;	BTECH (Computer Science & Engineering) </h3>
 <h3 align="left">&ensp; 💻&nbsp;	Analytical Programmer</h3>
-<h3 align="left">&ensp; 🚀&nbsp;	Open Source Enthusiast</h3><br>
+<h3 align="left">&ensp; 🚀&nbsp;	Open Source Enthusiast</h3>
 
 	
 
