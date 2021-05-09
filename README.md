@@ -3,7 +3,7 @@
 
 <div><img align="right"src="https://previews.123rf.com/images/jossdiim/jossdiim1801/jossdiim180100028/93767092-programming-and-coding-illustration-.jpg" width="240" height="160"/><h3 align="left">&ensp; 🎓&nbsp;	BTECH (Computer Science & Engineering) </h3>
 <h3 align="left">&ensp; 💻&nbsp;	Analytical Programmer</h3>
-<h3 align="left">&ensp; 🚀&nbsp;	Open Source Enthusiast</h3>,
+<h3 align="left">&ensp; 🚀&nbsp;	Open Source Enthusiast</h3>
 <br>
 
 	
