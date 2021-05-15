@@ -19,7 +19,7 @@
 <br>
 
 <div class="footer">
-  <p align="center"><b>(DO FOLLOW)</b> </p>
+  <p align="center"><b>(DO FOLLOW ME)</b> </p>
 </div>
 
 <!--
