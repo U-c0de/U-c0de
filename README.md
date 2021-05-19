@@ -16,7 +16,7 @@
 	 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &emsp;<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  &ensp; <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>
 
 <div class="footer">
-  <p align="right"><b>(JOIN WITH ME)</b> </p>
+  <p align="right"><b>(CONNECT WITH ME)</b> </p>
 </div>
 
 <!--
@@ -25,7 +25,3 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=u-c0de&show_icons=true&locale=en" alt="u-c0de" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=u-c0de&" alt="u-c0de" /></p>
 <img src="https://github.com/mscoutermarsh/mscoutermarsh/raw/master/teeter.gif?raw=true" alt="" style="max-width:100%;">
-<img src="https://camo.githubusercontent.com/8caedaf605a291a97194573683dc659fbb495a44f9a5866ec99d392b080d8864/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6775696c797826636f6c756d6e3d362672616e6b3d5353532c53532c532c4141412c41412c412c422c43" data-canonical-src="https://github-profile-trophy.vercel.app/?username=guilyx&amp;column=6&amp;rank=SSS,SS,S,AAA,AA,A,B,C" style="max-width:100%;">
-<img src="https://camo.githubusercontent.com/df7749343f5ebde43667efdcaac419bacfb4ec40c3986fc83afa5e025de304e3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d6f7069672673686f775f69636f6e733d74727565267468656d653d64726163756c6126686964653d73746172732c697373756573" alt="Leo's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=mopig&amp;show_icons=true&amp;theme=dracula&amp;hide=stars,issues" style="max-width:100%;">
-<img align="center" src="https://camo.githubusercontent.com/9a19a7c0ecf1321c35db6311da7b14320bb3fa912885abc5dd7c50416a62d3f9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7a68656e79652d6e6126686964653d632532422532422c632c6d61746c61622c617373656d626c79267469746c655f636f6c6f723d36616136663826746578745f636f6c6f723d3861393139612669636f6e5f636f6c6f723d3661613666382662675f636f6c6f723d323232373265" alt="Zhenye's GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenye-na&amp;hide=c%2B%2B,c,matlab,assembly&amp;title_color=6aa6f8&amp;text_color=8a919a&amp;icon_color=6aa6f8&amp;bg_color=22272e" style="max-width:100%;">
-<img src="https://camo.githubusercontent.com/994beb919a9bcffcfeec40c3bc9c95ab5424b82515089280ab0fb1f45bf4c0fb/68747470733a2f2f74686561626269652e6769746875622e696f2f66696c65732f6f63746f6361742e706e67" alt="TheAbbie" width="200" height="200" data-canonical-src="https://theabbie.github.io/files/octocat.png" style="max-width:100%;">
