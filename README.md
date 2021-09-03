@@ -1,4 +1,5 @@
-<h2 <a align="left">👋🏻 I'm  UTKARSH SHARMA <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="35" height="25"</a><img align=right src="https://komarev.com/ghpvc/?username=xyz&label=Profile%20views&color=0e75b6&style=flat" alt="xyz" /></h2><br>
+<h2 <a align="left">👋🏻 I'm  UTKARSH SHARMA <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="35" height="25"</a></h2>
+<img align=right src="https://komarev.com/ghpvc/?username=xyz&label=Profile%20views&color=0e75b6&style=flat" alt="xyz" /><br>
 <h3>👨🏻‍💻 About Me</h3>
 <p align="left"><b> &emsp;&emsp;&emsp;🎓 B.Tech Computer Science & Engineering Undergraduate (2019-23)<b></p>
 <p align="left"><b> &emsp;&emsp;&emsp;🧐 Interests: Application Development | Web development | Problem Solving | OpenSource Projects<b></p>
