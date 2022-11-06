@@ -1,7 +1,7 @@
 <h3 <a align="left">👋🏾 I'm  UTKARSH </a><img align=right src="https://komarev.com/ghpvc/?username=xyz&label=Profile%20views&color=0e75b6&style=flat" alt="xyz" /></h3>
 <p align="left">&emsp;🎓 Trainee Developer open to exciting Project Opportunities & Tech Communities  </p>
-<p align="left">&emsp;🧐 Interests : Full-Stack development | OpenSource Projects | Cloud Technology 
-            <a href="https://linkedin.com/in/utkarsharma22" target="blank"><img align="right" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"<a href="mailto: utkarshpluss@gmail.com" target="blank"><img align="right" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"</a>
+<p align="left">&emsp;🧐 Interested in Full-Stack development, OpenSource Projects & Cloud Technology 
+            <a href="https://linkedin.com/in/utkarsharma22" target="blank"><img align="right" width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"<a href="mailto: utkarshpluss@gmail.com" target="blank"><img align="right" width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"</a>
             </p>
   <p></p><br>
 
